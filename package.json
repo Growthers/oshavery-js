@@ -1,0 +1,15 @@
+{
+  "name": "oshavery-js",
+  "version": "0.0.1",
+  "main": "build/main.js",
+  "license": "MIT",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "yarn run build"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "target": "esnext",
+    "strict": true,
+    "skipDefaultLibCheck": true,
+    "declaration": true,
+    "newLine": "lf",
+    "outDir": "build"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
